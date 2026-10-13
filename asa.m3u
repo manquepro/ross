@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-id="Deportes" tvg-logo="http://www.manque.online/iptv/logos/dsports.png" group-title="General",D Sports
 http://190.196.10.140/manquepro/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="http://www.manque.online/iptv/logos/tntpremiun.png" group-title="General",TNT Sports
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/104686
